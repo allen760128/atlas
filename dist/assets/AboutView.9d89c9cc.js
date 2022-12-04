@@ -1,0 +1,1 @@
+import{_ as t,r as a,o as s,c as n,a as c,F as _,b as e}from"./index.cea63047.js";const r={},l=e("div",{class:"about"},[e("h1",null,"This is an about dpage")],-1);function p(u,i,d,m,f,v){const o=a("Nav");return s(),n(_,null,[c(o),l],64)}const h=t(r,[["render",p]]);export{h as default};
